@@ -1,4 +1,4 @@
 def catch_phrase(var)
 
-  puts "#{var}"
+  puts var
 end
