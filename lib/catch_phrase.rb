@@ -1,4 +1,4 @@
-def catch_phrase(var)
+def catch_phrase
 
-  puts var
+  puts "It's-a me, Mario!"
 end
